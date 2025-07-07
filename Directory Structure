@@ -1,0 +1,12 @@
+leviathon/
+│
+├── leviathon.py
+├── tools/
+│   ├── __init__.py
+│   ├── network_scanning.py
+│   ├── vulnerability_assessment.py
+│   ├── password_cracking.py
+│   └── exploit.py
+├── utils.py
+├── requirements.txt
+└── README.md
